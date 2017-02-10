@@ -1,5 +1,9 @@
 #ecoding:utf-8
+#SadStan
+#www.facebook.com/kirito.makaveli
+
 import socket
+
 print"""
 ########################
 AlienWare Port Scanning
