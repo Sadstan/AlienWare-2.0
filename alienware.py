@@ -1,9 +1,5 @@
 #ecoding:utf-8
-#SadStan
-#www.facebook.com/kirito.makaveli
-
 import socket
-
 print"""
 ########################
 AlienWare Port Scanning
@@ -30,7 +26,7 @@ AlienWare Port Scanning
 [+] -h para instrucoes [+]
 [+] Port Scanning 1.1 [+]
 [+] AlienWare [+]
-[+] Greetz: Diogo@Makaveli - Op@Coder - Júlia Siilva - Livia Guillens - Luis Henrique [+]
+[+] Greetz:Diogo Makaveli - OpCoder - Júlia Siilva - Livia Guillens[+]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 """
 
@@ -38,13 +34,15 @@ help = raw_input("[+] Digite -h [+] : ")
 
 if help == '-h':
     print"""
-        Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens OpCoder - Luis Henrique
-        PortScan 1.1
-        AlienWare
+#################################################################
+Codado by SadStan
+Greetz:Diogo Makaveli - OpCoder - Júlia Siilva - Livia Guillens
+PortScan 1.1
+AlienWare
 
-        exit [para sair]
-        -h [para help]
+exit [para sair]
+-h [para help]
+#################################################################
     """
 elif help == 'exit':
     exit()
@@ -58,13 +56,15 @@ if ip == "exit":
 
 elif ip == '-h':
     print"""
-        Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens - OpCoder - Luis Henrique
-        PortScan 1.0
-        AlienWare
+#################################################################
+Codado by SadStan
+Greetz:Diogo Makaveli - OpCoder - Júlia Siilva - Livia Guillens
+PortScan 1.0
+AlienWare
 
-        exit [para sair]
-        -h [para help]
+exit [para sair]
+-h [para help]
+#################################################################
     """
     exit()
 else:
@@ -82,13 +82,15 @@ if str(ports) == "exit":
 
 elif str(ports) == "-h":
     print"""
-        Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens - OpCoder - Luis Henrique
-        PortScan 1.0
-        AlienWare
+#################################################################
+Codado by SadStan
+Greetz:Diogo Makaveli - OpCoder - Júlia Siilva - Livia Guillens
+PortScan 1.0
+AlienWare
 
-        exit [para sair]
-        -h [para help]
+exit [para sair]
+-h [para help]
+#################################################################
     """
 else:
     print("[+] Carregando [+]")
