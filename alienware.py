@@ -39,7 +39,7 @@ help = raw_input("[+] Digite -h [+] : ")
 if help == '-h':
     print"""
         Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - OpCoder - Luis Henrique
+        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens OpCoder - Luis Henrique
         PortScan 1.1
         AlienWare
 
