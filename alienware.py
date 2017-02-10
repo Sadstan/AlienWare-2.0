@@ -30,7 +30,7 @@ AlienWare Port Scanning
 [+] -h para instrucoes [+]
 [+] Port Scanning 1.1 [+]
 [+] AlienWare [+]
-[+] Greetz: Diogo@Makaveli - Op@Coder - Júlia Siilva- Luis Henrique [+]
+[+] Greetz: Diogo@Makaveli - Op@Coder - Júlia Siilva - Livia Guillens - Luis Henrique [+]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 """
 
@@ -59,7 +59,7 @@ if ip == "exit":
 elif ip == '-h':
     print"""
         Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - OpCoder - Luis Henrique
+        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens - OpCoder - Luis Henrique
         PortScan 1.0
         AlienWare
 
@@ -83,7 +83,7 @@ if str(ports) == "exit":
 elif str(ports) == "-h":
     print"""
         Codado by SadStan
-        Greetz: Diogo Makaveli - Júlia Siilva - OpCoder - Luis Henrique
+        Greetz: Diogo Makaveli - Júlia Siilva - Livia Guillens - OpCoder - Luis Henrique
         PortScan 1.0
         AlienWare
 
